@@ -17,9 +17,9 @@ try {
     $mail->Host = 'smtp.hostinger.com';
     $mail->SMTPAuth = true;
     $mail->Username = 'info@velvoratours.com';
-    $mail->Password = '#Velvora2026'; // 👉 put mailbox password here
+    $mail->Password = '#Velvora2027'; // 👉 put mailbox password here
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS; // SSL
-    $mail->Port = 465;
+    $mail->Port = 587;
 
     // Sender (must be your domain email for Hostinger)
     $mail->setFrom('info@velvoratours.com', 'Velvora Tours');
