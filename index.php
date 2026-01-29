@@ -72,10 +72,10 @@
                   and Asia.
                 </p>
                 <div class="hero-buttons">
-                  <a href="#destinations" class="btn btn-primary me-3"
+                  <a href="destinations.php" class="btn btn-primary me-3"
                     >Discover Sri Lanka</a
                   >
-                  <a href="#packages" class="btn btn-outline"
+                  <a href="tours.php" class="btn btn-outline"
                     >View Travel Packages</a
                   >
                 </div>
