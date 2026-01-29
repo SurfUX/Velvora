@@ -61,12 +61,12 @@
                 data-aos-delay="100"
               >
                 <h1 class="hero-title">
-                  Discover Sri Lanka with Velvora Tours
+                  Discover Sri Lanka with Velvora Travels
                 </h1>
                 <p class="hero-subtitle">
                   Experience carefully curated journeys across Sri Lanka  from
                   pristine beaches and lush tea plantations to ancient heritage
-                  sites and wildlife safaris. Velvora Tours connects European
+                  sites and wildlife safaris. Velvora Travels connects European
                   travelers with unforgettable, authentic and luxury travel
                   experiences, with expanding destinations across the Maldives
                   and Asia.
@@ -97,9 +97,9 @@
                 data-aos="fade-up"
                 data-aos-delay="100"
               >
-                <h3>Why Travel with <span class="description-title">Velvora Tours</span></h3>
+                <h3>Why Travel with <span class="description-title">Velvora Travels</span></h3>
                 <p>
-                  At Velvora Tours, we create more than holidays — we design
+                  At Velvora Travels, we create more than holidays — we design
                   immersive travel experiences. Specialising in Sri Lanka with
                   hand-picked partners and expert local knowledge, we ensure
                   every journey is smooth, safe, and truly unforgettable.
@@ -560,7 +560,7 @@
     <h2>Testimonials</h2>
     <div>
       <span>What Our Travelers</span>
-      <span class="description-title">Say About Velvora Tours</span>
+      <span class="description-title">Say About Velvora Travels</span>
     </div>
   </div>
 
@@ -591,7 +591,7 @@
             <p>
               <i class="bi bi-quote quote-icon-left"></i>
               <span>
-                Velvora Tours planned every detail perfectly. From the safari experience to the beautiful beaches, 
+                Velvora Travels planned every detail perfectly. From the safari experience to the beautiful beaches, 
                 our Sri Lanka trip was smooth, safe, and unforgettable. Truly a luxury experience.
               </span>
               <i class="bi bi-quote quote-icon-right"></i>
@@ -624,7 +624,7 @@
               <i class="bi bi-quote quote-icon-left"></i>
               <span>
                 Sri Lanka exceeded our expectations. The cultural sites, nature, and hospitality were incredible. 
-                Velvora Tours handled everything professionally.
+                Velvora Travels handled everything professionally.
               </span>
               <i class="bi bi-quote quote-icon-right"></i>
             </p>
@@ -656,7 +656,7 @@
               <i class="bi bi-quote quote-icon-left"></i>
               <span>
                 The Ayurveda retreat was life-changing. Peaceful locations, excellent treatments, and outstanding care. 
-                I highly recommend Velvora Tours.
+                I highly recommend Velvora Travels.
               </span>
               <i class="bi bi-quote quote-icon-right"></i>
             </p>
@@ -683,7 +683,7 @@
         <div class="badge-wrapper">
           <span class="promo-badge">Special Sri Lanka Experiences</span>
         </div>
-        <h2>Begin Your Journey with Velvora Tours</h2>
+        <h2>Begin Your Journey with Velvora Travels</h2>
         <p>
           Discover the beauty of Sri Lanka with expertly crafted travel experiences  from golden beaches and wildlife safaris 
           to cultural treasures and wellness retreats. Your unforgettable holiday starts here.
@@ -779,7 +779,7 @@
 
     <div class="benefits-showcase" data-aos="fade-up" data-aos-delay="400">
       <div class="benefits-header">
-        <h3>Why Travel with Velvora Tours</h3>
+        <h3>Why Travel with Velvora Travels</h3>
         <p>Premium service, local expertise, and unforgettable experiences</p>
       </div>
 

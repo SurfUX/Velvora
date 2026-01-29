@@ -39,7 +39,7 @@
 <!-- Page Title -->
 <div class="page-title dark-background" data-aos="fade" style="background-image: url(assets/img/travel/showcase-8.webp);">
   <div class="container position-relative">
-    <h1>Contact Velvora Tours</h1>
+    <h1>Contact Velvora Travels</h1>
     <p>We’re here to help you plan the perfect Sri Lanka journey — reach out anytime for personalized travel assistance.</p>
     <nav class="breadcrumbs">
       <ol>
@@ -96,9 +96,9 @@
           </div>
           <div class="info-content">
             <h4>Email Us</h4>
-            <p>info@velvoratours.com</p>
-            <p>Gihan@velvoratours.com</p>
-             <p>Amaya@velvoratours.com</p>
+            <p>info@velvoratravels.com</p>
+            <p>Gihan@velvoratravels.com</p>
+             <p>Amaya@velvoratravels.com</p>
           </div>
         </div>
       </div>

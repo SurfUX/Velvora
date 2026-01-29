@@ -58,10 +58,10 @@
 
     <div class="row">
       <div class="col-lg-8 mx-auto text-center">
-        <h2>Discover Sri Lanka with Velvora Tours</h2>
+        <h2>Discover Sri Lanka with Velvora Travels</h2>
         <p class="mb-5">
           From pristine coastlines and misty hill country to sacred cultural sites and wildlife-rich national parks, 
-          Sri Lanka offers an extraordinary variety of experiences — all thoughtfully curated by Velvora Tours.
+          Sri Lanka offers an extraordinary variety of experiences — all thoughtfully curated by Velvora Travels.
         </p>
       </div>
     </div>
@@ -270,7 +270,7 @@
         <div class="planning-assistance">
           <div class="assistance-content">
             <h3>Plan Your Perfect Sri Lanka Journey</h3>
-            <p>Not sure which destinations suit your travel style? Our Velvora Tours experts will create a personalized itinerary just for you.</p>
+            <p>Not sure which destinations suit your travel style? Our Velvora Travels experts will create a personalized itinerary just for you.</p>
             <div class="assistance-actions">
               <a href="#" class="btn btn-primary">Get Free Travel Consultation</a>
               <a href="#" class="btn btn-outline">View All Tour Packages</a>

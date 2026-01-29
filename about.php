@@ -39,7 +39,7 @@
  <!-- Page Title -->
 <div class="page-title dark-background" data-aos="fade" style="background-image: url(assets/img/travel/showcase-8.webp);">
   <div class="container position-relative">
-    <h1>About Velvora Tours</h1>
+    <h1>About Velvora Travels</h1>
     <p>Crafting unforgettable Sri Lanka journeys with local expertise, personalized service, and world-class travel standards.</p>
     <nav class="breadcrumbs">
       <ol>
@@ -60,7 +60,7 @@
         <div class="intro-content" data-aos="fade-up" data-aos-delay="200">
           <h2>Creating Exceptional Travel Experiences<br>Across Sri Lanka</h2>
           <p class="lead">
-            Velvora Tours was founded with a passion for showcasing the true beauty of Sri Lanka through carefully crafted journeys 
+            Velvora Travels was founded with a passion for showcasing the true beauty of Sri Lanka through carefully crafted journeys 
             designed for international travelers seeking authenticity, comfort, and unforgettable moments.
           </p>
         </div>
@@ -92,7 +92,7 @@
           </div>
           <h3>Local Roots, Global Standards</h3>
           <p>
-            Velvora Tours began with a simple goal to connect international travelers with the heart of Sri Lanka. 
+            Velvora Travels began with a simple goal to connect international travelers with the heart of Sri Lanka. 
             With deep local knowledge and strong partnerships across the island, we design journeys that go beyond sightseeing.
           </p>
           <p>
@@ -117,7 +117,7 @@
       <div class="col-lg-12">
         <div class="features-grid" data-aos="fade-up" data-aos-delay="200">
           <div class="section-header text-center mb-5">
-            <h3>Why Travelers Choose Velvora Tours</h3>
+            <h3>Why Travelers Choose Velvora Travels</h3>
             <p>The values that shape every journey we create</p>
           </div>
 
@@ -211,7 +211,7 @@
         <div class="journey-timeline" data-aos="fade-up" data-aos-delay="200">
           <div class="timeline-header text-center mb-5">
             <h3>Our Journey So Far</h3>
-            <p>Milestones that shaped Velvora Tours</p>
+            <p>Milestones that shaped Velvora Travels</p>
           </div>
 
           <div class="timeline-container">
@@ -220,7 +220,7 @@
             <div class="timeline-milestone" data-aos="slide-right" data-aos-delay="300">
               <div class="milestone-marker"><span class="year">2023</span></div>
               <div class="milestone-content">
-                <h4>Velvora Tours Founded</h4>
+                <h4>Velvora Travels Founded</h4>
                 <p>Established with a mission to deliver premium Sri Lanka travel experiences for international travelers.</p>
               </div>
             </div>
@@ -259,7 +259,7 @@
           <div class="cta-overlay">
             <div class="cta-content">
               <h3>Start Your Sri Lanka Journey Today</h3>
-              <p>Let Velvora Tours design a personalized experience you’ll never forget.</p>
+              <p>Let Velvora Travels design a personalized experience you’ll never forget.</p>
               <div class="cta-buttons">
                 <a href="destinations.php" class="btn btn-primary me-3">Explore Sri Lanka</a>
                 <a href="contact.php" class="btn btn-outline">Talk to Our Travel Experts</a>
