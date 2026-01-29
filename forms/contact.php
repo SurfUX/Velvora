@@ -3,7 +3,7 @@
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
-// Load PHPMailer files (your current structure)
+// Load PHPMailer (your folder structure)
 require __DIR__ . '/../assets/vendor/phpmailer/Exception.php';
 require __DIR__ . '/../assets/vendor/phpmailer/PHPMailer.php';
 require __DIR__ . '/../assets/vendor/phpmailer/SMTP.php';
@@ -12,31 +12,33 @@ $mail = new PHPMailer(true);
 
 try {
 
-    // SMTP configuration (Hostinger)
+    // ================================
+    // SMTP SETTINGS — HOSTINGER
+    // ================================
     $mail->isSMTP();
     $mail->Host = 'smtp.hostinger.com';
     $mail->SMTPAuth = true;
     $mail->Username = 'info@velvoratours.com';
-    $mail->Password = '#Velvora2027'; // 👉 put mailbox password here
-    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS; // SSL
+    $mail->Password = '#Velvora2027';   // your mailbox password
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS; // TLS
     $mail->Port = 587;
 
-    // Sender (must be your domain email for Hostinger)
+    // ================================
+    // EMAIL SETUP
+    // ================================
     $mail->setFrom('info@velvoratours.com', 'Velvora Tours');
 
-    // Safe reply-to (user email)
     if (!empty($_POST['email']) && filter_var($_POST['email'], FILTER_VALIDATE_EMAIL)) {
         $mail->addReplyTo($_POST['email'], $_POST['name'] ?? '');
     }
 
-    // Receiver
     $mail->addAddress('info@velvoratours.com');
 
-    // Subject
-    $subject = $_POST['subject'] ?? 'New Travel Inquiry';
-    $mail->Subject = $subject;
+    // ================================
+    // CONTENT
+    // ================================
+    $mail->Subject = $_POST['subject'] ?? 'New Travel Inquiry';
 
-    // Message body
     $name = $_POST['name'] ?? '';
     $email = $_POST['email'] ?? '';
     $message = $_POST['message'] ?? '';
@@ -46,7 +48,9 @@ try {
         "Email: $email\n\n" .
         "Message:\n$message";
 
-    // Send email
+    // ================================
+    // SEND
+    // ================================
     $mail->send();
 
     echo "OK";
@@ -54,4 +58,5 @@ try {
 } catch (Exception $e) {
     echo "Mailer Error: " . $mail->ErrorInfo;
 }
+
 ?>
