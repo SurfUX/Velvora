@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Contact - Tour Bootstrap Template</title>
+  <title>Velvora Travels</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -58,20 +58,38 @@
     <!-- Contact Info Boxes -->
     <div class="row gy-4 mb-5">
 
-      <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+      <div class="col-lg-3" data-aos="fade-up" data-aos-delay="100">
         <div class="contact-info-box">
           <div class="icon-box">
             <i class="bi bi-geo-alt"></i>
           </div>
           <div class="info-content">
-            <h4>Our Office</h4>
-            <p>Colombo, Sri Lanka</p>
-            <p>Serving travelers worldwide</p>
+            <h4>Our Office - Ireland</h4>
+            <p>George’s Street Upper,
+                Dun Laoghaire,<br>
+                Co. Dublin,
+                Ireland.</p>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3" data-aos="fade-up" data-aos-delay="100">
+        <div class="contact-info-box">
+          <div class="icon-box">
+            <i class="bi bi-geo-alt"></i>
+          </div>
+          <div class="info-content">
+            <h4>Our Office - Sri Lanka</h4>
+            <p>Street Road,
+                Dewata,<br>
+                Galle,
+                Sri Lanka.</p>
+            
           </div>
         </div>
       </div>
 
-      <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
+      <div class="col-lg-3" data-aos="fade-up" data-aos-delay="200">
         <div class="contact-info-box">
           <div class="icon-box">
             <i class="bi bi-envelope"></i>
@@ -79,12 +97,13 @@
           <div class="info-content">
             <h4>Email Us</h4>
             <p>info@velvoratours.com</p>
-            <p>booking@velvoratours.com</p>
+            <p>Gihan@velvoratours.com</p>
+             <p>Amaya@velvoratours.com</p>
           </div>
         </div>
       </div>
 
-      <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
+      <div class="col-lg-3" data-aos="fade-up" data-aos-delay="300">
         <div class="contact-info-box">
           <div class="icon-box">
             <i class="bi bi-headset"></i>
@@ -104,7 +123,7 @@
   <!-- Google Maps (Full Width) -->
   <div class="map-section" data-aos="fade-up" data-aos-delay="200">
     <!-- You can later replace this map with your Colombo office location -->
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d48389.78314118045!2d-74.006138!3d40.710059!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a22a3bda30d%3A0xb89d1fe6bc499443!2sDowntown%20Conference%20Center!5e0!3m2!1sen!2sus!4v1676961268712!5m2!1sen!2sus" 
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2384.919469360031!2d-6.1330339999999985!3d53.290977600000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670624f41c3cf9%3A0x5f77cc5905dbfcf!2sGeorge&#39;s%20Street%20Upper%2C%20D%C3%BAn%20Laoghaire%2C%20Dublin%2C%20Ireland!5e0!3m2!1sen!2slk!4v1769665802260!5m2!1sen!2slk" 
       width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" 
       referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>

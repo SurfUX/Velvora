@@ -275,7 +275,7 @@
                     <span>Surf Coast</span>
                   </div>
                   <div class="tour-action">
-                    <a href="booking.php" class="btn-book">Book Now</a>
+                    <a href="contact.php" class="btn-book">Book Now</a>
                     <div class="tour-rating">
                       <i class="bi bi-star-fill"></i
                       ><i class="bi bi-star-fill"></i>
@@ -326,7 +326,7 @@
                     <span>Luxury Resorts</span>
                   </div>
                   <div class="tour-action">
-                    <a href="booking.php" class="btn-book">Book Now</a>
+                    <a href="contact.php" class="btn-book">Book Now</a>
                     <div class="tour-rating">
                       <i class="bi bi-star-fill"></i
                       ><i class="bi bi-star-fill"></i>
@@ -377,7 +377,7 @@
                     <span>Anuradhapura</span>
                   </div>
                   <div class="tour-action">
-                    <a href="booking.php" class="btn-book">Book Now</a>
+                    <a href="contact.php" class="btn-book">Book Now</a>
                     <div class="tour-rating">
                       <i class="bi bi-star-fill"></i
                       ><i class="bi bi-star-fill"></i>
@@ -428,7 +428,7 @@
                     <span>Tea Trails</span>
                   </div>
                   <div class="tour-action">
-                    <a href="booking.php" class="btn-book">Book Now</a>
+                    <a href="contact.php" class="btn-book">Book Now</a>
                     <div class="tour-rating">
                       <i class="bi bi-star-fill"></i
                       ><i class="bi bi-star-fill"></i>
@@ -479,7 +479,7 @@
                     <span>Healing Therapies</span>
                   </div>
                   <div class="tour-action">
-                    <a href="booking.php" class="btn-book">Book Now</a>
+                    <a href="contact.php" class="btn-book">Book Now</a>
                     <div class="tour-rating">
                       <i class="bi bi-star-fill"></i
                       ><i class="bi bi-star-fill"></i>
@@ -529,7 +529,7 @@
         <span>Arugam Bay</span>
       </div>
       <div class="tour-action">
-        <a href="booking.php" class="btn-book">Enquire Now</a>
+        <a href="contact.php" class="btn-book">Enquire Now</a>
         <div class="tour-rating">
           <i class="bi bi-star-fill"></i>
           <i class="bi bi-star-fill"></i>

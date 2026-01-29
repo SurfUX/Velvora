@@ -13,7 +13,7 @@
           <li><a href="about.php">About</a></li>
           <li><a href="destinations.php">Destinations</a></li>
           <li><a href="tours.php">Tours</a></li>
-          <li><a href="gallery.php">Gallery</a></li>
+          <!-- <li><a href="gallery.php">Gallery</a></li> -->
           <!-- <li><a href="blog.php">Blog</a></li> -->
           <!-- <li class="dropdown"><a href="#"><span>More Pages</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>

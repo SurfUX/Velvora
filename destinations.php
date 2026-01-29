@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Destinations - Tour Bootstrap Template</title>
+  <title>Velvora Travels</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -83,7 +83,7 @@
 
         <!-- Sigiriya & Cultural Triangle -->
         <div class="col-lg-4 col-md-6 destination-item isotope-item filter-historical">
-          <a href="destination-details.html" class="destination-tile">
+          <a href="#" class="destination-tile">
             <div class="tile-image">
               <img src="assets/img/travel/culture.jpg" alt="Cultural Sri Lanka" class="img-fluid" loading="lazy">
               <div class="overlay-content">
@@ -103,7 +103,7 @@
 
         <!-- Hill Country -->
         <div class="col-lg-4 col-md-6 destination-item isotope-item filter-mountain">
-          <a href="destination-details.html" class="destination-tile">
+          <a href="#" class="destination-tile">
             <div class="tile-image">
               <img src="assets/img/travel/ella.webp" alt="Sri Lanka Hill Country" class="img-fluid" loading="lazy">
               <div class="overlay-content">
@@ -123,7 +123,7 @@
 
         <!-- Wildlife & Nature -->
         <div class="col-lg-4 col-md-6 destination-item isotope-item filter-tropical">
-          <a href="destination-details.html" class="destination-tile">
+          <a href="#" class="destination-tile">
             <div class="tile-image">
               <img src="assets/img/travel/yala.jpg" alt="Sri Lanka Wildlife Safari" class="img-fluid" loading="lazy">
               <div class="overlay-content">
@@ -143,7 +143,7 @@
 
         <!-- Colombo & Cities -->
         <div class="col-lg-4 col-md-6 destination-item isotope-item filter-urban">
-          <a href="destination-details.html" class="destination-tile">
+          <a href="#" class="destination-tile">
             <div class="tile-image">
               <img src="assets/img/travel/galle.webp" alt="Colombo City" class="img-fluid" loading="lazy">
               <div class="overlay-content">
@@ -163,7 +163,7 @@
 
         <!-- Beaches -->
         <div class="col-lg-4 col-md-6 destination-item isotope-item filter-coastal">
-          <a href="destination-details.html" class="destination-tile">
+          <a href="#" class="destination-tile">
             <div class="tile-image">
               <img src="assets/img/travel/beach.jpeg" alt="Sri Lanka Beaches" class="img-fluid" loading="lazy">
               <div class="overlay-content">
@@ -183,7 +183,7 @@
 
         <!-- Ayurveda -->
         <div class="col-lg-4 col-md-6 destination-item isotope-item filter-tropical">
-          <a href="destination-details.html" class="destination-tile">
+          <a href="#" class="destination-tile">
             <div class="tile-image">
               <img src="assets/img/travel/ayurweda.webp" alt="Sri Lanka Ayurveda Retreat" class="img-fluid" loading="lazy">
               <div class="overlay-content">
@@ -203,7 +203,7 @@
 
         <!-- Adventure Hiking -->
         <div class="col-lg-4 col-md-6 destination-item isotope-item filter-mountain">
-          <a href="destination-details.html" class="destination-tile">
+          <a href="#" class="destination-tile">
             <div class="tile-image">
               <img src="assets/img/travel/hiking.jpg" alt="Sri Lanka Adventure Trails" class="img-fluid" loading="lazy">
               <div class="overlay-content">
@@ -223,7 +223,7 @@
 
         <!-- Sacred Sites -->
         <div class="col-lg-4 col-md-6 destination-item isotope-item filter-historical">
-          <a href="destination-details.html" class="destination-tile">
+          <a href="#" class="destination-tile">
             <div class="tile-image">
               <img src="assets/img/travel/temple.jpg" alt="Sacred Sri Lanka" class="img-fluid" loading="lazy">
               <div class="overlay-content">
@@ -243,7 +243,7 @@
 
         <!-- Surfing -->
         <div class="col-lg-4 col-md-6 destination-item isotope-item filter-urban">
-          <a href="destination-details.html" class="destination-tile">
+          <a href="#" class="destination-tile">
             <div class="tile-image">
               <img src="assets/img/travel/surf.webp" alt="Sri Lanka Surfing Spots" class="img-fluid" loading="lazy">
               <div class="overlay-content">
