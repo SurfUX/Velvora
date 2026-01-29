@@ -1,23 +1,37 @@
 <?php
 
-$to = "info@velvoratours.com";
-$name = $_POST['name'] ?? '';
-$email = $_POST['email'] ?? '';
-$subject = $_POST['subject'] ?? 'New Travel Inquiry';
-$message = $_POST['message'] ?? '';
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
 
-$headers = "From: $name <$email>\r\n";
-$headers .= "Reply-To: $email\r\n";
-$headers .= "Content-Type: text/plain; charset=UTF-8";
+require '../assets/vendor/phpmailer/src/Exception.php';
+require '../assets/vendor/phpmailer/src/PHPMailer.php';
+require '../assets/vendor/phpmailer/src/SMTP.php';
 
-$fullMessage = "Name: $name\n";
-$fullMessage .= "Email: $email\n\n";
-$fullMessage .= "Message:\n$message";
+$mail = new PHPMailer(true);
 
-if (mail($to, $subject, $fullMessage, $headers)) {
+try {
+    $mail->isSMTP();
+    $mail->Host = 'smtp.hostinger.com';
+    $mail->SMTPAuth = true;
+    $mail->Username = 'info@velvoratours.com';
+    $mail->Password = '#Velvora2026'; // mailbox password
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS; // SSL
+    $mail->Port = 465;
+
+    $mail->setFrom('info@velvoratours.com', 'Velvora Tours');
+    $mail->addReplyTo($_POST['email'], $_POST['name']);
+    $mail->addAddress('info@velvoratours.com');
+
+    $mail->Subject = $_POST['subject'];
+    $mail->Body = 
+        "Name: {$_POST['name']}\n" .
+        "Email: {$_POST['email']}\n\n" .
+        "Message:\n{$_POST['message']}";
+
+    $mail->send();
     echo "OK";
-} else {
-    echo "Email failed to send.";
-}
 
+} catch (Exception $e) {
+    echo "Mailer Error: " . $mail->ErrorInfo;
+}
 ?>
