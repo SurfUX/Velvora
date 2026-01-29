@@ -13,13 +13,13 @@ $mail = new PHPMailer(true);
 try {
 
     // ======================
-    // SMTP SETTINGS (Hostinger)
+    // SMTP SETTINGS — HOSTINGER
     // ======================
     $mail->isSMTP();
-    $mail->Host = 'smtp.hostinger.com'; // try mail.velvoratours.com if needed
+    $mail->Host = 'smtp.hostinger.com';
     $mail->SMTPAuth = true;
     $mail->Username = 'info@velvoratravels.com';
-    $mail->Password = 'VelvoraMail123!';
+    $mail->Password = 'VelvoraMail123!';   // mailbox password
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
     $mail->Port = 587;
 
