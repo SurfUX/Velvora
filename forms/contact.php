@@ -26,13 +26,13 @@ try {
     // ======================
     // EMAIL SETUP
     // ======================
-    $mail->setFrom('info@velvoratours.com', 'Velvora Tours');
+    $mail->setFrom('info@velvoratravels.com', 'Velvora Tours');
 
     if (!empty($_POST['email']) && filter_var($_POST['email'], FILTER_VALIDATE_EMAIL)) {
         $mail->addReplyTo($_POST['email'], $_POST['name'] ?? '');
     }
 
-    $mail->addAddress('info@velvoratours.com');
+    $mail->addAddress('info@velvoratravels.com');
 
     // ======================
     // MESSAGE
