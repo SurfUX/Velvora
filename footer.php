@@ -1,3 +1,12 @@
+    <a 
+  href="https://wa.me/94717758637?text=Hello%20Can%20I%20get%20your%20travel%20packages%20details%20please" 
+  class="floating-whatsapp"
+  target="_blank"
+  aria-label="Chat on WhatsApp"
+>
+  <i class="bi bi-whatsapp"></i>
+</a>
+
 <footer id="footer" class="footer position-relative dark-background">
 
   <div class="footer-newsletter">
