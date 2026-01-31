@@ -1,5 +1,5 @@
-    <a 
-  href="https://wa.me/94717758637?text=Hello%20Can%20I%20get%20your%20travel%20packages%20details%20please" 
+<a 
+  href="https://wa.me/353851867300?text=Hello%20Can%20I%20get%20your%20travel%20packages%20details%20please" 
   class="floating-whatsapp"
   target="_blank"
   aria-label="Chat on WhatsApp"
@@ -72,7 +72,7 @@
         <h4>Follow Velvora Tours</h4>
         <p>Get inspired with real travel moments, destination highlights, and exclusive offers.</p>
         <div class="social-links d-flex">
-          <a href="#"><i class="bi bi-twitter-x"></i></a>
+          <!-- <a href="#"><i class="bi bi-twitter-x"></i></a> -->
           <a href="#"><i class="bi bi-facebook"></i></a>
           <a href="#"><i class="bi bi-instagram"></i></a>
           <a href="#"><i class="bi bi-linkedin"></i></a>

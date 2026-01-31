@@ -64,12 +64,7 @@
                   Discover Sri Lanka with Velvora Travels
                 </h1>
                 <p class="hero-subtitle">
-                  Experience carefully curated journeys across Sri Lanka  from
-                  pristine beaches and lush tea plantations to ancient heritage
-                  sites and wildlife safaris. Velvora Travels connects European
-                  travelers with unforgettable, authentic and luxury travel
-                  experiences, with expanding destinations across the Maldives
-                  and Asia.
+                  Velvora Travels curates meaningful journeys through Sri Lanka that go beyond sightseeing. From secluded beaches and mist-covered tea estates to timeless heritage cities and untamed wildlife reserves, each experience is thoughtfully designed to connect you with the island’s soul.
                 </p>
                 <div class="hero-buttons">
                   <a href="destinations.php" class="btn btn-primary me-3"
@@ -108,6 +103,58 @@
             </div>
 
             <div class="row g-4">
+              <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+  <div class="feature-card">
+    <div class="feature-icon">
+      <i class="bi bi-leaf-fill"></i>
+    </div>
+    <h4>Sustainable by Nature</h4>
+    <p>
+      We design our journeys with deep respect for Sri Lanka’s people, wildlife, and landscapes,
+      supporting local communities and responsible travel practices.
+    </p>
+  </div>
+</div>
+
+<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="550">
+  <div class="feature-card">
+    <div class="feature-icon">
+      <i class="bi bi-gem"></i>
+    </div>
+    <h4>Curated Quality</h4>
+    <p>
+      Every experience is carefully selected, from boutique stays to handpicked guides,
+      ensuring comfort, authenticity, and seamless service throughout your journey.
+    </p>
+  </div>
+</div>
+
+<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+  <div class="feature-card">
+    <div class="feature-icon">
+      <i class="bi bi-map-fill"></i>
+    </div>
+    <h4>Local Expertise</h4>
+    <p>
+      With roots in Sri Lanka, we offer insider access to places and moments most travelers miss —
+      real encounters, not rushed itineraries.
+    </p>
+  </div>
+</div>
+
+<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="650">
+  <div class="feature-card">
+    <div class="feature-icon">
+      <i class="bi bi-heart-fill"></i>
+    </div>
+    <h4>Travel with Purpose</h4>
+    <p>
+      Our journeys support local communities, protect natural landscapes, and preserve cultural heritage,
+      ensuring travel today nurtures Sri Lanka for generations to come.
+    </p>
+  </div>
+</div>
+
               <div
                 class="col-lg-4 col-md-6"
                 data-aos="fade-up"
@@ -179,23 +226,7 @@
                 </div>
               </div>
 
-              <div
-                class="col-lg-4 col-md-6"
-                data-aos="fade-up"
-                data-aos-delay="400"
-              >
-                <div class="feature-card">
-                  <div class="feature-icon">
-                    <i class="bi bi-geo-alt-fill"></i>
-                  </div>
-                  <h4>Growing Global Destinations</h4>
-                  <p>
-                    Starting with Sri Lanka and expanding to the Maldives and
-                    beyond, we bring you world-class destinations for every
-                    travel style.
-                  </p>
-                </div>
-              </div>
+             
 
               <div
                 class="col-lg-4 col-md-6"
