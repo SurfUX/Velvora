@@ -40,7 +40,7 @@
   <!-- Page Title -->
   <div class="page-title dark-background" data-aos="fade" style="background-image: url(assets/img/travel/showcase-8.webp);">
     <div class="container position-relative">
-      <h1>Kandy Destination</h1>
+      <h1>Ceylon Mysteries</h1>
       <p>Experience the cultural heart of Sri Lanka surrounded by scenic hills, heritage and spirituality.</p>
       <nav class="breadcrumbs">
         <ol>
@@ -62,25 +62,95 @@
           <img src="assets/img/travel/destination-3.webp" alt="Kandy" class="img-fluid">
           <div class="hero-overlay">
             <div class="hero-content">
-              <h1>Kandy, Sri Lanka</h1>
+              <h1>Ceylon Mysteries</h1>
               <p class="hero-tagline">The Cultural Capital of the Hill Country</p>
             </div>
           </div>
         </div>
       </div>
 
-      <!-- Overview Section -->
-      <div class="destination-overview" data-aos="fade-up" data-aos-delay="200">
-        <div class="row">
-          <div class="col-lg-8 mx-auto">
-            <h2>Discover the Charm of Kandy</h2>
-            <p>
-              Nestled among misty mountains and centered around a serene lake, Kandy is one of Sri Lanka’s most treasured cities.
-              It is home to the sacred Temple of the Tooth Relic, lush botanical gardens, vibrant cultural traditions, and scenic
-              viewpoints. Kandy offers a perfect blend of spirituality, history, and natural beauty for every traveler.
-            </p>
-          </div>
+     
+            <!-- Practical Information -->
+      <div class="practical-info" data-aos="fade-up" data-aos-delay="600">
+        <div class="section-header">
+          <h2>Essential Travel Information</h2>
+          <p>Helpful tips for visiting Kandy</p>
         </div>
+
+        <div class="row gy-4">
+          <div class="col-lg-12 col-md-12">
+            <div class="info-item">
+              <!-- <i class="bi bi-calendar-event"></i> -->
+              <h4><i class="bi bi-car-front"></i> Day 1 : Airport – Negombo</h4>
+              <p>Warm welcome on arrival at the airport and transfer to Negombo. Check in to the hotel.</p>
+              <p>In the afternoon, enjoy a city tour of Negombo, visiting the fish market, St. Mary’s Church, Dutch Fort, and beach area.</p>
+            
+            </div>
+          </div>
+          <div class="col-lg-12 col-md-12">
+            <div class="info-item">
+              <!-- <i class="bi bi-calendar-event"></i> -->
+              <h4><i class="bi bi-car-front"></i> Day 2 : Negombo – Mihintale – Anuradhapura </h4>
+              <p>After breakfast, proceed to Anuradhapura. </p>
+              <p>Arrive in Anuradhapura and check in to the hotel. </p>
+             
+            </div>
+          </div>
+          <div class="col-lg-12 col-md-12">
+            <div class="info-item">
+              <!-- <i class="bi bi-calendar-event"></i> -->
+              <h4><i class="bi bi-car-front"></i> Day 3 : Anuradhapura – Sigiriya </h4>
+              <p>After breakfast, explore the ancient city of Anuradhapura, including major religious and historical sites.</p>
+              <p>Proceed to Sigiriya.</p>
+              <p>In the evening, enjoy a relaxing boat ride on the Thalkote River at sunset.</p>
+             
+            </div>
+          </div>
+          <div class="col-lg-12 col-md-12">
+            <div class="info-item">
+              <!-- <i class="bi bi-calendar-event"></i> -->
+              <h4><i class="bi bi-car-front"></i> Day 4 : Sigiriya – Polonnaruwa – Sigiriya </h4>
+              <p>Early morning climb of the Sigiriya Rock Fortress.</p>
+              <p>In the afternoon, visit the ancient city of Polonnaruwa on a bicycle tour.</p>
+              <p>Return to the hotel in Sigiriya.</p>
+             
+            </div>
+          </div>
+          <div class="col-lg-12 col-md-12">
+            <div class="info-item">
+              <!-- <i class="bi bi-calendar-event"></i> -->
+              <h4><i class="bi bi-car-front"></i> Day 5 : Sigiriya – Dambulla – Kandy </h4>
+              <p>After breakfast, proceed to Kandy.</p>
+              <p>En route, visit the Dambulla Cave Temple.</p>
+              <p>Arrive in Kandy and enjoy a Sri Lankan cooking demonstration.</p>
+              <p>In the evening, experience a traditional Kandy Cultural Dance Show and check in to the hotel.</p>
+             
+            </div>
+          </div>
+          <div class="col-lg-12 col-md-12">
+            <div class="info-item">
+              <!-- <i class="bi bi-calendar-event"></i> -->
+              <h4><i class="bi bi-car-front"></i> Day 6 : Kandy – Galle </h4>
+              <p>After breakfast, visit the Temple of the Sacred Tooth Relic and enjoy a Kandy city tour.Thereafter, proceed to Galle.</p>
+              <p>Thereafter, proceed to Galle.</p>
+              <p>In the evening, explore the historic Galle Fort.</p>
+              
+             
+            </div>
+          </div>
+          <div class="col-lg-12 col-md-12">
+            <div class="info-item">
+              <!-- <i class="bi bi-calendar-event"></i> -->
+              <h4><i class="bi bi-car-front"></i> Day 7 : Galle – Airport</h4>
+              <p>Enjoy leisure time at the beach.</p>
+              <p>Visit the Lunuganga Estate, the country home of architect Geoffrey Bawa.</p>
+              <p>Transfer to the airport for departure with unforgettable memories of Sri Lanka.</p>
+              
+             
+            </div>
+          </div>
+
+
       </div>
 
       <!-- Attractions Section -->
@@ -252,57 +322,7 @@
         </div>
       </div>
 
-      <!-- Practical Information -->
-      <div class="practical-info" data-aos="fade-up" data-aos-delay="600">
-        <div class="section-header">
-          <h2>Essential Travel Information</h2>
-          <p>Helpful tips for visiting Kandy</p>
-        </div>
 
-        <div class="row gy-4">
-          <div class="col-lg-3 col-md-6">
-            <div class="info-item">
-              <i class="bi bi-calendar-event"></i>
-              <h4>Best Time</h4>
-              <p>January to April and July to September.</p>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6">
-            <div class="info-item">
-              <i class="bi bi-thermometer-sun"></i>
-              <h4>Climate</h4>
-              <p>Cool hill country weather year-round.</p>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6">
-            <div class="info-item">
-              <i class="bi bi-currency-dollar"></i>
-              <h4>Currency</h4>
-              <p>Sri Lankan Rupee (LKR).</p>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6">
-            <div class="info-item">
-              <i class="bi bi-passport"></i>
-              <h4>Visa</h4>
-              <p>Tourist ETA required for most visitors.</p>
-            </div>
-          </div>
-        </div>
-
-        <div class="travel-tips">
-          <h3>Local Tips</h3>
-          <ul class="tips-list">
-            <li>Dress modestly at religious sites</li>
-            <li>Carry light jackets for evenings</li>
-            <li>Try Kandyan local food</li>
-            <li>Hire local guides for deeper insight</li>
-          </ul>
-        </div>
-      </div>
 
       <!-- Gallery Section -->
       <div class="gallery-section" data-aos="fade-up" data-aos-delay="700">

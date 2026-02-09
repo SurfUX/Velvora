@@ -41,7 +41,7 @@
 <div class="page-title dark-background" data-aos="fade" style="background-image: url(assets/img/travel/showcase-8.webp);">
   <div class="container position-relative">
     <h1>Destinations</h1>
-    <p>Explore Sri Lanka’s most beautiful landscapes — from golden beaches and ancient cities to lush mountains and wildlife parks.</p>
+    <p>Journey through Sri Lanka’s wonders, where golden beaches, timeless cities, emerald mountains, and untamed wildlife await. Experience authentic village life, wander ancient temples, breathe the mist of rolling hills, and hear the jungle whisper its secrets. </p>
     <nav class="breadcrumbs">
       <ol>
         <li><a href="index.html">Home</a></li>
@@ -60,8 +60,7 @@
       <div class="col-lg-8 mx-auto text-center">
         <h2>Discover Sri Lanka with Velvora Travels</h2>
         <p class="mb-5">
-          From pristine coastlines and misty hill country to sacred cultural sites and wildlife-rich national parks, 
-          Sri Lanka offers an extraordinary variety of experiences — all thoughtfully curated by Velvora Travels.
+          From golden beaches to misty mountains, from ancient temples to wild safaris, Sri Lanka is an adventure for every sense. Let Velvora Travels guide you through unforgettable moments, where every corner whispers adventure, every view takes your breath away.
         </p>
       </div>
     </div>

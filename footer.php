@@ -73,9 +73,9 @@
         <p>Get inspired with real travel moments, destination highlights, and exclusive offers.</p>
         <div class="social-links d-flex">
           <!-- <a href="#"><i class="bi bi-twitter-x"></i></a> -->
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
+          <a target="_blank" href="https://www.facebook.com/profile.php?id=61587188973875"><i class="bi bi-facebook"></i></a>
+          <a target="_blank" href="#"><i class="bi bi-instagram"></i></a>
+          <a target="_blank" href="#"><i class="bi bi-linkedin"></i></a>
         </div>
       </div>
 

@@ -3988,7 +3988,7 @@ section,
 }
 
 .travel-destination-details .practical-info .info-item {
-  text-align: center;
+  /* text-align: center; */
   padding: 30px 20px;
   background: var(--surface-color);
   border-radius: 15px;

@@ -59,7 +59,8 @@
     <div class="row">
       <div class="col-lg-8 mx-auto text-center mb-5">
         <h2>Find Your Ideal Sri Lanka Experience</h2>
-        <p>Choose from expertly curated journeys designed for adventure lovers, culture seekers, honeymooners, nature enthusiasts and wellness travelers.</p>
+        <p>Explore Sri Lanka at your own pace. Our curated journeys cover adventure, culture, romance, nature and wellness and we can customize each trip just for you. At Velvora Travels, we craft authentic journeys that go beyond sightseeing. <br> From experiencing real village life and cultural traditions to up-close wildlife encounters and soothing wellness escapes, every trip is designed with sustainability, responsible travel, and meaningful connections at its heart. Discover Sri Lanka in a way that feels genuine, immersive, and unforgettable.</p>
+        
       </div>
     </div>
 
@@ -80,23 +81,21 @@
                   <div class="tour-price">From €1,950</div>
                 </div>
                 <div class="tour-content">
-                  <h4>Sri Lanka Adventure Explorer</h4>
+                  <h4>Ceylon Mysteries</h4>
                   <div class="tour-meta">
-                    <span class="duration"><i class="bi bi-clock"></i> 9 Days</span>
+                    <span class="duration"><i class="bi bi-clock"></i> 7 Days</span>
                     <span class="group-size"><i class="bi bi-people"></i> Max 8</span>
                   </div>
                   <p>
-                    Experience thrilling safaris, scenic hikes, waterfalls,
-                    surfing beaches, and misty mountains in one unforgettable
-                    Sri Lankan adventure.
+                     Discover Sri Lanka’s ancient kingdoms, sacred temples, iconic rock fortresses, and coastal charm on this immersive cultural journey from Negombo to Galle — blending history, nature, and local experiences in just 7 unforgettable days.
                   </p>
                   <div class="tour-highlights">
-                    <span>Yala Safari</span>
-                    <span>Ella Hiking</span>
-                    <span>Surf Coast</span>
-                  </div>
+  <span>Sigiriya Rock</span>
+  <span>Ancient Cities</span>
+  <span>Galle Fort</span>
+</div>
                   <div class="tour-action">
-                    <a href="contact.php" class="btn-book">Book Now</a>
+                    <a href="Ceylonmysteries.php" class="btn-book">Book Now</a>
                     <div class="tour-rating">
                       <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                       <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
@@ -117,7 +116,7 @@
                   <div class="tour-price">From €2,350</div>
                 </div>
                 <div class="tour-content">
-                  <h4>Romantic Sri Lanka Escape</h4>
+                  <h4>Ceylon Amor</h4>
                   <div class="tour-meta">
                     <span class="duration"><i class="bi bi-clock"></i> 8 Days</span>
                     <span class="group-size"><i class="bi bi-people"></i> Couples</span>
@@ -132,7 +131,7 @@
                     <span>Luxury Resorts</span>
                   </div>
                   <div class="tour-action">
-                    <a href="contact.php" class="btn-book">Book Now</a>
+                    <a href="Ceylonamor.php" class="btn-book">Book Now</a>
                     <div class="tour-rating">
                       <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                       <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
@@ -153,7 +152,7 @@
                   <div class="tour-price">From €1,650</div>
                 </div>
                 <div class="tour-content">
-                  <h4>Cultural Heritage of Sri Lanka</h4>
+                  <h4>Ceylon Wild</h4>
                   <div class="tour-meta">
                     <span class="duration"><i class="bi bi-clock"></i> 7 Days</span>
                     <span class="group-size"><i class="bi bi-people"></i> Max 12</span>
@@ -168,7 +167,7 @@
                     <span>Anuradhapura</span>
                   </div>
                   <div class="tour-action">
-                    <a href="contact.php" class="btn-book">Book Now</a>
+                    <a href="Ceylonwild.php" class="btn-book">Book Now</a>
                     <div class="tour-rating">
                       <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                       <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
@@ -189,7 +188,7 @@
                   <div class="tour-price">From €1,780</div>
                 </div>
                 <div class="tour-content">
-                  <h4>Nature &amp; Wildlife Wonders</h4>
+                  <h4>Ceylon Pulse</h4>
                   <div class="tour-meta">
                     <span class="duration"><i class="bi bi-clock"></i> 8 Days</span>
                     <span class="group-size"><i class="bi bi-people"></i> Max 10</span>
@@ -204,7 +203,7 @@
                     <span>Tea Trails</span>
                   </div>
                   <div class="tour-action">
-                    <a href="contact.php" class="btn-book">Book Now</a>
+                    <a href="Ceylonpulse.php" class="btn-book">Book Now</a>
                     <div class="tour-rating">
                       <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                       <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
