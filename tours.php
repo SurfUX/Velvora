@@ -78,7 +78,7 @@
                 <div class="tour-image">
                   <img src="assets/img/travel/adventure.jpg" alt="Sri Lanka Adventure Tour" class="img-fluid" loading="lazy">
                   <div class="tour-badge">Adventure</div>
-                  <div class="tour-price">From €1,950</div>
+                  <!-- <div class="tour-price">From €1,950</div> -->
                 </div>
                 <div class="tour-content">
                   <h4>Ceylon Mysteries</h4>
@@ -113,7 +113,7 @@
                 <div class="tour-image">
                   <img src="assets/img/travel/romantic.jpg" alt="Sri Lanka Honeymoon Tour" class="img-fluid" loading="lazy">
                   <div class="tour-badge limited">Honeymoon</div>
-                  <div class="tour-price">From €2,350</div>
+                  <!-- <div class="tour-price">From €2,350</div> -->
                 </div>
                 <div class="tour-content">
                   <h4>Ceylon Amor</h4>
@@ -149,7 +149,7 @@
                 <div class="tour-image">
                   <img src="assets/img/travel/culture.webp" alt="Sri Lanka Cultural Tour" class="img-fluid" loading="lazy">
                   <div class="tour-badge new">Culture</div>
-                  <div class="tour-price">From €1,650</div>
+                  <!-- <div class="tour-price">From €1,650</div> -->
                 </div>
                 <div class="tour-content">
                   <h4>Ceylon Wild</h4>
@@ -185,7 +185,7 @@
                 <div class="tour-image">
                   <img src="assets/img/travel/elephant.jpg" alt="Sri Lanka Nature Tour" class="img-fluid" loading="lazy">
                   <div class="tour-badge">Nature</div>
-                  <div class="tour-price">From €1,780</div>
+                  <!-- <div class="tour-price">From €1,780</div> -->
                 </div>
                 <div class="tour-content">
                   <h4>Ceylon Pulse</h4>
@@ -221,7 +221,7 @@
                 <div class="tour-image">
                   <img src="assets/img/travel/ayurweda.jpg" alt="Sri Lanka Ayurveda Retreat" class="img-fluid" loading="lazy">
                   <div class="tour-badge cultural">Ayurveda</div>
-                  <div class="tour-price">From €2,100</div>
+                  <!-- <div class="tour-price">From €2,100</div> -->
                 </div>
                 <div class="tour-content">
                   <h4>Ayurveda Wellness Retreat</h4>
@@ -257,7 +257,7 @@
     <div class="tour-image">
       <img src="assets/img/travel/surf.jpg" alt="Sri Lanka Surfing Tour" class="img-fluid" loading="lazy">
       <div class="tour-badge adventure">Surfing</div>
-      <div class="tour-price">From €1,450</div>
+      <!-- <div class="tour-price">From €1,450</div> -->
     </div>
     <div class="tour-content">
       <h4>Sri Lanka Surf &amp; Beach Adventure</h4>
